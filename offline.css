@@ -1,0 +1,11 @@
+body {
+    background-color: red;
+}
+#container {
+    width: 80%;
+    margin: 0 auto 0 auto;
+    min-height: 500px;
+    background-image: url("birthday.png");
+    background-repeat: repeat;
+    background-size: contain;
+}
